@@ -6,7 +6,10 @@ Unfortunately, I cannot share the .txt files I showed in the session or my API k
 
 You can get API keys from [bluemix.net](http://bluemix.net)
 
+
 Please feel free to reach out with any questions.  
 
+
 LinkedIn: [Derek Franks](https://www.linkedin.com/in/derekfranks)
+
 Twitter: [@derek_franks](https://twitter.com/derek_franks)
